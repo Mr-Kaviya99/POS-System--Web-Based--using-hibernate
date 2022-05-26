@@ -1,1 +1,1 @@
-# POS-System--Web-Based--using-hibernate
+# POS-System--Web-Based-using-hibernate
